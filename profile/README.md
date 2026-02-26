@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://chartts.com/og.png" alt="Chart.ts" width="600" />
+  <img src="https://raw.githubusercontent.com/chartts/chartts.com/main/public/og.png" alt="Chart.ts" width="720" />
 </p>
 
 <h3 align="center">Design-native charting for the modern web.</h3>
