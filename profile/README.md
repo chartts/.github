@@ -16,13 +16,13 @@
 
 ### Why Chart.ts?
 
-Most charting libraries force you to fight their styling. Chart.ts is different — every element exposes `className`, Tailwind `dark:` variants work out of the box, and your design tokens stay yours.
+Most charting libraries force you to fight their styling. Chart.ts is different. Every element exposes `className`, Tailwind `dark:` variants work out of the box, and your design tokens stay yours.
 
-- **27 chart types** — line, bar, area, pie, scatter, radar, candlestick, heatmap, treemap, and more
-- **SVG by default** — crisp at every zoom level, inspectable in devtools, accessible to screen readers
-- **Auto-scales** — SVG under 10k points, Canvas at 10k+, WebGL at 100k+. Zero configuration.
-- **WCAG 2.1 AA** — keyboard navigation, ARIA roles, pattern fills for color-blind users
-- **Truly tiny** — core under 15kb gzipped. No heavy runtime.
+- **27 chart types** - line, bar, area, pie, scatter, radar, candlestick, heatmap, treemap, and more
+- **SVG by default** - crisp at every zoom level, inspectable in devtools, accessible to screen readers
+- **Auto-scales** - SVG under 10k points, Canvas at 10k+, WebGL at 100k+. Zero configuration.
+- **WCAG 2.1 AA** - keyboard navigation, ARIA roles, pattern fills for color-blind users
+- **Truly tiny** - core under 15kb gzipped. No heavy runtime.
 
 ### Quick start
 
@@ -36,7 +36,7 @@ import { LineChart } from "@chartts/react"
 <LineChart data={data} x="month" y="revenue" />
 ```
 
-That's it. Labels, axes, tooltips, gradients, responsive scaling, dark mode — all automatic.
+That's it. Labels, axes, tooltips, gradients, responsive scaling, dark mode. All automatic.
 
 ### Repos
 
@@ -47,6 +47,6 @@ That's it. Labels, axes, tooltips, gradients, responsive scaling, dark mode — 
 
 ### Links
 
-- [chartts.com](https://chartts.com) — docs, demos, API reference
+- [chartts.com](https://chartts.com) - docs, demos, API reference
 - [npm: @chartts/core](https://npmjs.com/package/@chartts/core)
 - MIT Licensed
